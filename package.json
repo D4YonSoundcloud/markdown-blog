@@ -1,0 +1,28 @@
+{
+  "name": "markdown-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js",
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D4YonSoundcloud/markdown-blog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/D4YonSoundcloud/markdown-blog/issues"
+  },
+  "homepage": "https://github.com/D4YonSoundcloud/markdown-blog#readme",
+  "description": ""
+}
